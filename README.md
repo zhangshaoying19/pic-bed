@@ -1,0 +1,2 @@
+# pic-bed
+picGo + typora 
